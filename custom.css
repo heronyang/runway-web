@@ -1,0 +1,14 @@
+/* Global */
+.jumbotron h1 {
+    font-size: 50px;
+}
+
+.jumbotron p {
+    font-size: medium;
+    color: #888;
+}
+
+/* Sections */
+.jumbotron{
+    margin-top: 80px;
+}
