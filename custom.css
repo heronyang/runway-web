@@ -12,3 +12,8 @@
 .jumbotron{
     margin-top: 80px;
 }
+
+.well p {
+    margin-left: 2em; 
+    text-indent: -2em;
+}
